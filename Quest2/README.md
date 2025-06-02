@@ -1,72 +1,51 @@
-Welcome to Quest2 of the Piscine Go Oujda series! This quest focuses on enhancing your Go programming skills through a series of exercises designed to deepen your understanding of the language's core concepts.
+0x02. Go - Quest 2
+📚 Learning Objectives
+By the end of this quest, you should be able to:
+
+Understand and use Go conditionals and loops
+
+Work with basic data types (strings, integers, booleans)
+
+Use Go functions effectively
+
+Practice modular code and reusability
 
 📁 Project Structure
-The Quest2 directory contains the following files:
+This directory contains the following tasks:
 
-exercise1.go: Description of exercise1.
+File Name	Description
+01-hello.go	Prints "Hello, World" to the console.
+02-conditions.go	Demonstrates if, else, and switch usage.
+03-loops.go	Implements common loop patterns in Go.
+04-functions.go	Basic function usage with arguments and return values.
+05-math.go	Basic arithmetic functions (add, subtract, etc.).
+06-strings.go	String manipulation tasks.
 
-exercise2.go: Description of exercise2.
+Note: Please update file names and descriptions based on actual content.
 
-exercise3.go: Description of exercise3.
-
-README.md: This file.
-
-Note: Replace the exercise file names and descriptions with the actual ones present in the directory.
-
-🚀 Getting Started
-To get started with these exercises:
-
-Clone the repository:
+🛠️ Usage
+To run a specific Go file:
 
 bash
 Copy
 Edit
-git clone https://github.com/hamazoon/piscine-go-oujda.git
-cd piscine-go-oujda/Quest2
-Run an exercise:
+go run 01-hello.go
+You can compile and execute using:
 
 bash
 Copy
 Edit
-go run exercise1.go
-Replace exercise1.go with the desired exercise file.
+go build 01-hello.go
+./01-hello
+✅ Requirements
+Allowed editors: vi, vim, emacs, or any code editor
 
-🧠 Objectives
-By completing these exercises, you will:
+All files should end with a new line
 
-Reinforce your understanding of Go syntax and semantics.
+Your Go programs should compile without errors
 
-Practice problem-solving using Go's standard library.
+Use go fmt for formatting your code
 
-Prepare for more advanced topics in subsequent quests.
-
-📚 Resources
-Go Documentation
-
-Effective Go
-
-Go by Example
-
-🤝 Contributing
-Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
-
-📄 License
-This project is open-source and available under the MIT License.
-
-Feel free to customize this README.md further to match the specific details and structure of your Quest2 directory.
-
-
-
-
-
-
-
-Sources
-
-
-
-
-Tools
-
-
-
+🧠 Author
+hamazoon
+GitHub: @hamazoon
